@@ -24,8 +24,14 @@ Enterprise-level ASP.NET Core Web API demonstrating request submission and appro
 - POST '/api/requests'
 - GET '/api/requests'
 - POST '/api/requests/{requestId}/action'
+- 
+## Screenshots
 
 ## Sample Payloads
+- swagger link
+- created request
+- approved request
+- get details
 
 ### Create Request
 '''json
